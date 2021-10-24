@@ -17,7 +17,7 @@
 
 Adafruit_SSD1306 display(128, 64);
 
-const char* ssid = "WiFi SSD"; //Your WiFi SSD
+const char* ssid = "WiFi SSID"; //Your WiFi SSID
 const char* password = "WiFi key"; //Your WiFi key
 String openWeatherMapApiKey = "f75c9f0a2r2u2ae7d17fw116ef863b64"; //openweathermap.org API key
 String city = "Kandy";  //City name
